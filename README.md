@@ -5,7 +5,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - 1 Month ( April -2022 )
 - **Internship Type** - Virtual/Remote
 
-In this internship, we were provided a total of 8 Tasks and only 1 task needed to submitted for completion certificate however i maanged to finish 4 tasks.
+In this internship, we were provided a total of 8 Tasks and only 1 task needed to submitted for completion certificate however i managed to finish 4 tasks.
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](Youtubelink Here)
 [<img align = right height = 50 width = 50 src = https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png>](https://github.com/back1ply/The-Sparks-Foundation-Tasks/blob/main/Task%201/Prediction%20using%20Supervised%20ML.ipynb)
