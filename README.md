@@ -1,4 +1,4 @@
-# The Sparks Foundation - Data Science and Business Analytics Tasks
+# The Sparks Foundation - Data Science and Business Analytics Internship Tasks
  
 This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation GRIP (Graduate Rotational Internship Program).](https://internship.thesparksfoundation.info/index.html)
 - **Internship Category** - Data Science and Business Analytics
